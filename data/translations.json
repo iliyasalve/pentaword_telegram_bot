@@ -1,0 +1,61 @@
+{
+    "en": {
+        "welcome": "🌍 Welcome to Word Guess Bot!\nChoose your language:",
+        "choose_difficulty": "🎯 Choose difficulty:",
+        "invalid_language": "Invalid language. Choose again.",
+        "invalid_difficulty": "Invalid difficulty. Choose again.",
+        "word_length_info": "🤖 I’ve picked a {n}-letter word. Start guessing!",
+        "not_in_dict": "That word is not in the dictionary.",
+        "wrong_length": "Word must be {n} letters long.",
+        "correct": "🎉 Correct! You guessed the word!",
+        "game_over": "😢 Game over. The word was: {word}",
+        "attempts_left": "{n} attempts left.",
+        "cancel": "Cancel",
+        "cancelled": "Game canceled. Choose a difficulty level to start again.",
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard",
+        "play_again": "Play again",
+        "change_lang": "Change language"
+
+    },
+    "ru": {
+        "welcome": "🌍 Добро пожаловать в Бота Угадай Слово!\nВыберите язык:",
+        "choose_difficulty": "🎯 Выберите уровень сложности:",
+        "invalid_language": "Неверный язык. Попробуйте снова.",
+        "invalid_difficulty": "Неверный уровень. Попробуйте снова.",
+        "word_length_info": "🤖 Я загадал слово из {n} букв. Начинай угадывать!",
+        "not_in_dict": "Такого слова нет в словаре.",
+        "wrong_length": "Слово должно содержать {n} букв.",
+        "correct": "🎉 Поздравляем! Ты угадал слово!",
+        "game_over": "😢 Попытки закончились. Слово было: {word}",
+        "attempts_left": "Осталось попыток: {n}",
+        "cancel": "Отмена",
+        "cancelled": "Игра отменена. Выберите уровень сложности, чтобы начать снова.",
+        "easy": "Лёгкий",
+        "medium": "Средний",
+        "hard": "Сложный",
+        "play_again": "Играть снова",
+        "change_lang": "Сменить язык"
+    },
+    "fr": {
+        "welcome": "🌍 Bienvenue dans le bot Devine le Mot !\nChoisissez votre langue :",
+        "choose_difficulty": "🎯 Choisissez la difficulté :",
+        "invalid_language": "Langue invalide. Réessayez.",
+        "invalid_difficulty": "Difficulté invalide. Réessayez.",
+        "word_length_info": "🤖 J'ai choisi un mot de {n} lettres. Devinez-le !",
+        "not_in_dict": "Ce mot n'est pas dans le dictionnaire.",
+        "wrong_length": "Le mot doit comporter {n} lettres.",
+        "correct": "🎉 Bravo ! Vous avez deviné le mot !",
+        "game_over": "😢 Fin du jeu. Le mot était : {word}",
+        "attempts_left": "Il vous reste {n} tentatives.",
+        "cancel": "Annuler",
+        "cancelled": "Jeu annulé. Choisissez un niveau de difficulté pour recommencer.",
+        "easy": "Facile",
+        "medium": "Moyen",
+        "hard": "Difficile",
+        "play_again": "Rejouer",
+        "change_lang": "Changer de langue"
+    }
+  }
+  
